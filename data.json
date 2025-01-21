@@ -1,0 +1,95 @@
+{
+    "course": [
+        {
+          "id": 1,
+          "title": "Introduction to Python",
+          "level": "Beginner",
+          "rate": 4.8,
+          "hour": 12,
+          "price": 49.99,
+          "image": "https://example.com/images/python.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Advanced JavaScript",
+          "level": "Advanced",
+          "rate": 4.5,
+          "hour": 15,
+          "price": 69.99,
+          "image": "https://example.com/images/javascript.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Web Development Bootcamp",
+          "level": "Intermediate",
+          "rate": 4.9,
+          "hour": 20,
+          "price": 89.99,
+          "image": "https://example.com/images/webdev.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Data Science with R",
+          "level": "Intermediate",
+          "rate": 4.6,
+          "hour": 18,
+          "price": 79.99,
+          "image": "https://example.com/images/datascience.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Machine Learning Basics",
+          "level": "Beginner",
+          "rate": 4.7,
+          "hour": 14,
+          "price": 59.99,
+          "image": "https://example.com/images/machinelearning.jpg"
+        },
+        {
+          "id": 6,
+          "title": "Digital Marketing Strategies",
+          "level": "Beginner",
+          "rate": 4.8,
+          "hour": 10,
+          "price": 39.99,
+          "image": "https://example.com/images/marketing.jpg"
+        },
+        {
+          "id": 7,
+          "title": "Graphic Design Masterclass",
+          "level": "Advanced",
+          "rate": 4.9,
+          "hour": 22,
+          "price": 99.99,
+          "image": "https://example.com/images/graphicdesign.jpg"
+        },
+        {
+          "id": 8,
+          "title": "SEO for Beginners",
+          "level": "Beginner",
+          "rate": 4.4,
+          "hour": 8,
+          "price": 29.99,
+          "image": "https://example.com/images/seo.jpg"
+        },
+        {
+          "id": 9,
+          "title": "Cloud Computing Essentials",
+          "level": "Intermediate",
+          "rate": 4.6,
+          "hour": 16,
+          "price": 69.99,
+          "image": "https://example.com/images/cloud.jpg"
+        },
+        {
+          "id": 10,
+          "title": "Cybersecurity Fundamentals",
+          "level": "Intermediate",
+          "rate": 4.7,
+          "hour": 18,
+          "price": 74.99,
+          "image": "https://example.com/images/cybersecurity.jpg"
+        }
+      ]
+      
+}
